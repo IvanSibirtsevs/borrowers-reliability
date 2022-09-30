@@ -45,7 +45,7 @@ but it converts strings to float.***
 
 ### Conclusion
 
-*** Of all the categories, I have identified 4 main ones (real estate, housing, car, education, wedding) ***
+***Of all the categories, I have identified 4 main ones (real estate, housing, car, education, wedding)***
 
 ### Data categorization
 
@@ -64,7 +64,7 @@ The relationship between having children and repaying a loan on time
 ***The rich return the loan less often than the poor and even the poor. Perhaps because entrepreneurs earn a lot of money, and a business loan is usually quite large and it is almost impossible to repay it if the business goes bankrupt. The poor most often simply do not have money to return, but the poor are mostly pensioners. They are more responsible. The middle class earns enough to return the money to the bank and most often they have a stable job.***
 - How different purposes of the loan affect its repayment on time
 ### Conclusion
-***A car loan is the least likely to be returned because this asset quickly loses its value and requires quite a large investment, and many do not think about it when buying. With education, it seems to me that people most often find it difficult to work and study. For a wedding, money is most often given and the family can pay off the loan together, it's not much easier than doing it alone, and real estate is the thing for which if you don't pay, they'll just be kicked out, so people try to find money anywhere to pay off the mortgage ***
+***A car loan is the least likely to be returned because this asset quickly loses its value and requires quite a large investment, and many do not think about it when buying. With education, it seems to me that people most often find it difficult to work and study. For a wedding, money is most often given and the family can pay off the loan together, it's not much easier than doing it alone, and real estate is the thing for which if you don't pay, they'll just be kicked out, so people try to find money anywhere to pay off the mortgage.***
 
 ### Step 4. General conclusion
 On average, customers are about equally likely not to return money.

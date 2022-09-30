@@ -30,7 +30,7 @@ The results of the study will be taken into account when building a **credit sco
 
 ### Conclusion
 
-*** I chose the astype method because it fits best in this case. There is 1 more method to_numeric(),
+***I chose the astype method because it fits best in this case. There is 1 more method to_numeric(),
 but it converts strings to float.***
 
 ### Handling duplicates
@@ -59,7 +59,7 @@ The relationship between having children and repaying a loan on time
 ***There is. Families without children repay loans better, while families with many children repay debts worse. I think this is due to the fact that a child takes a lot of time and money. It turns out that someone who spends, but does not earn, appears in the family. Also, parents cannot earn the same as without children, because they need to be educated.***
 - Relationship between marital status and loan repayment on time
 ### Conclusion
-*** Those who are not married and not married, as well as in a civil marriage, are most often young, and they do not understand how loans work in general, since there is no financial literacy, or it is at a minimum level, therefore they return loans less often than anyone. It turns out the category of married / married and divorced is mostly middle-aged people and they are more responsible. In the widower / widow category, the most common are the elderly, they almost always give money away.***
+***Those who are not married and not married, as well as in a civil marriage, are most often young, and they do not understand how loans work in general, since there is no financial literacy, or it is at a minimum level, therefore they return loans less often than anyone. It turns out the category of married / married and divorced is mostly middle-aged people and they are more responsible. In the widower / widow category, the most common are the elderly, they almost always give money away.***
 ### Conclusion
 ***The rich return the loan less often than the poor and even the poor. Perhaps because entrepreneurs earn a lot of money, and a business loan is usually quite large and it is almost impossible to repay it if the business goes bankrupt. The poor most often simply do not have money to return, but the poor are mostly pensioners. They are more responsible. The middle class earns enough to return the money to the bank and most often they have a stable job.***
 - How different purposes of the loan affect its repayment on time

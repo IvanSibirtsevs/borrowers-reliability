@@ -1,10 +1,10 @@
-# Исследование надёжности заёмщиков
+# Borrower reliability study
 
-Этот репозиторий нужен для провкерки надежности заемщиков
+This repository is needed to check the reliability of borrowers
 
-## Описания проекта
+## Project descriptions
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Исследование надёжности заёмщиков](https://github.com/limenbah/borrowers-reliability/tree/main/borrowers_reliability) | Сравнение разных клиентов и вычесление самого надежного заемщика | *pandas, pymystem, collections* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Borrower Reliability Study](https://github.com/limenbah/borrowers-reliability/tree/main/borrowers_reliability) | Comparison of different clients and calculation of the most reliable borrower | *pandas, pymystem, collections* |
